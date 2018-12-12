@@ -1,5 +1,3 @@
-# blockchain-algorithm
-区块链核心算法详解
-abcd
+# 前言
 
-* [tetris](tetris.md)
+区块链核心算法详解
