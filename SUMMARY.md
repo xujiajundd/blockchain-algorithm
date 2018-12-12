@@ -1,6 +1,6 @@
 # 目录
 
-* [前言](README.MD)
+* [前言](README.md)
 * [第一部分：区块链原理](part1/README.md)
 * [第二部分：密码学算法](part2/README.md)
     * [第一章：随机数](part1/chapter1/README.md)
