@@ -28,4 +28,4 @@ doc/
 
 # book dir
 _book/
-
+node_modules/

@@ -1,5 +1,16 @@
 {
-"author":"徐家骏",
-"description":"区块链核心算法详解",
-"language":"zh-hans"
+"author":"徐家骏 <xujiajun@yeecall.com>",
+"title":"区块链核心算法详解",
+"description":"区块链核心算法详解，包括密码学、共识等算法",
+"language":"zh-hans",
+"styles": {
+        "website": "styles/website.css",
+        "ebook": "styles/ebook.css",
+        "pdf": "styles/pdf.css",
+        "mobi": "styles/mobi.css",
+        "epub": "styles/epub.css"
+     },
+"plugins": [
+    "mathjax"
+]
 }

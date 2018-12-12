@@ -18,3 +18,4 @@
 * [第六部分：抗量子计算](part6/README.md)
 * [第七部分：其他](part7/README.md)
 
+* [tetris](tetris.md)
